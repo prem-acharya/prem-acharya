@@ -30,6 +30,8 @@
 
 <b>Note</b>: *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
+<!-- 
+
 ## Statistics
 
 ![Kunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=prem-acharya&show_icons=true&theme=radical)
@@ -37,5 +39,7 @@
 ## Commit Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prem-acharya&tshow_icons=true&theme=radical)
+
+-->
      
 </div>
