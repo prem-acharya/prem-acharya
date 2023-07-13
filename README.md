@@ -1,3 +1,9 @@
+<h1>📫 How To Reach Me</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-prem_acharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-jolapara-a63b99205/)](https://www.linkedin.com/in/prem-acharya-38772822b/)
+
+---
+
 <h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Prem Acharya </h1>
 
 <div align="center">
@@ -23,6 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="php" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </p>
 
@@ -37,6 +44,7 @@
 - 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
 - ⚡ Fun fact Love Tech Jokes😂
 ---
+
 
 <div align="center">
 
