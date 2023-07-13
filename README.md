@@ -1,6 +1,6 @@
 <h1>📫 How To Reach Me</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-prem_acharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-jolapara-a63b99205/)](https://www.linkedin.com/in/prem-acharya-38772822b/)
+<a href="mailto:premacharya2193@gmail.com" width="10" hight="10">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin Badge](https://img.shields.io/badge/-PREM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-jolapara-a63b99205/)](https://www.linkedin.com/in/prem-acharya-38772822b/)
 
 ---
 
