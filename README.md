@@ -34,7 +34,7 @@
 
 ## Statistics
 
-![Kunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=prem-acharya&show_icons=true&theme=radical)
+![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=prem-acharya&show_icons=true&theme=radical)
 
 ## Commit Streak
 
