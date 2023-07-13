@@ -5,12 +5,14 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;
 <a href="mailto:premacharya2193@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-acharya-38772822b/)
+<!--
+https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
+-->
 
-
-<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Prem Acharya </h1>
+<h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 60px>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Prem Acharya </h1>
 
 <div align="center">
-<picture> <img align="center" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif?raw=true" width = 350px></picture>
+<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 </div>
 <h3 align="center">Proficient Web Developer</h3>
 <h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
