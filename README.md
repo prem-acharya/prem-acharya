@@ -1,8 +1,11 @@
-<h1>📫 How To Reach Me</h1>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;
+<a href="mailto:gohildev555@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<[LinkedInURL](https://www.linkedin.com/in/devang-gohil-2aba83209)>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="mailto:premacharya2193@gmail.com" width="10" hight="10">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![Linkedin Badge](https://img.shields.io/badge/-PREM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-jolapara-a63b99205/)](https://www.linkedin.com/in/prem-acharya-38772822b/)
-
----
 
 <h1 align="center"> <img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Prem Acharya </h1>
 
