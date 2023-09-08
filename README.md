@@ -51,13 +51,13 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
 
 
 <div align="center">
-
+<!--
 ## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prem-acharya&layout=compact&theme=radical)
 
 <b>Note</b>: *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
-
+-->
 <!-- 
 
 ## Statistics
