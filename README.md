@@ -39,7 +39,7 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
 
 
 ---
-- ⚙️ I use daily: `.py`, `.js`, `.svg`, `.json`,`.sql`
+- ⚙️ I use daily: `.py`, `.js`, `.jsx`, `.php`, `.svg`, `.sql`
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💅 Want to work at: **People**
 - 🌱 Learning more about and studying: **DSA , React JS, Node JS, AI, API, Open Source**
