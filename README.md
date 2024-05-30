@@ -13,7 +13,7 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
 <div align="center">
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 </div>
-<h3 align="center">Proficient Web Developer</h3>
+<h3 align="center">Proficient Full Stack Developer</h3>
 <h4 align="center"> Computer Engineer 💻 Passionate about continuous growth and development.</h4>
 <h4 align="center">MERN Satck & Next JS Enthusiastic</h4>
 
