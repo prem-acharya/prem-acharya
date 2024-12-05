@@ -38,18 +38,6 @@ https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif
 </p>
 
 
----
-- ⚙️ I use daily: `.py`, `.js`, `.jsx`, `.php`, `.svg`, `.sql`
-- 👯 I’m looking to collaborate on Open Source Projects
-- 💅 Want to work at: **People**
-- 🌱 Learning more about and studying: **DSA , React JS, Node JS, AI, API, Open Source**
-- 💬 Ask me about **Artificial intelligence , React JS , Linux**
-- 📫 How to reach me **premacharya2193@gmail.com**
-- 😄 Passionate about AI and Quantum Computing to bring that tech into peoples hand and AR too!
-- ⚡ Fun fact Love Tech Jokes😂
----
-
-
 <div align="center">
 
 ## Top Languages
